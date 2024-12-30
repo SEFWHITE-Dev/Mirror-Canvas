@@ -38,4 +38,5 @@ import { Loading } from "@/components/auth/loading";
       </ConvexProviderWithClerk>
     </ClerkProvider>
   );
+  
  };
